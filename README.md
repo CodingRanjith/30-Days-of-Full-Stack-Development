@@ -14,17 +14,16 @@
   </a>
 
 <sub>Author: <a href="https://www.linkedin.com/in/coding-ranjith-97b6ab238" target="_blank">Coding Ranjith</a><br>
-<small> December to J</small></sub>
+<small> December to January</small></sub>
 
 </div>
 
 
-[Day 1 >>](https://codingranjith.github.io/10-Days-of-Bootstrap.github.io/Day-01/)
+[Day 1 >>](https://github.com/CodingRanjith/30-Days-of-Full-Stack-Development.github.io/Day-1)
 
 | # Day |                                                           Topics                                                            |
 | ----- | :-------------------------------------------------------------------------------------------------------------------------: |
-| 18-Dec-2023 | [🌐Introduction to full stack development | Create bus reservation system
-]()
+| 18-Dec-2023 |  [Introduction to full stack development Create bus reservation system HTML](https://github.com/CodingRanjith/30-Days-of-Full-Stack-Development.github.io/Day-1)
 
 
 
